@@ -1,5 +1,7 @@
 <?php
 
+namespace App\Processor;
+
 class ToNumberProcessor implements TextProcessorInterface
 {
 

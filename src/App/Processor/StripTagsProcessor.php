@@ -1,5 +1,6 @@
 <?php
 
+namespace App\Processor;
 
 class StripTagsProcessor implements TextProcessorInterface
 {

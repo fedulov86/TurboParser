@@ -1,5 +1,7 @@
 <?php
 
+namespace App\Processor;
+
 class RemoveSpacesProcessor implements TextProcessorInterface
 {
 

@@ -1,5 +1,7 @@
 <?php
 
+namespace App\Processor;
+
 class ReplaceSpacesToEolProcessor implements TextProcessorInterface
 {
 
